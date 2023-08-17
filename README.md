@@ -8,7 +8,7 @@
   <a href="https://instagram.com/iam.hosseindarvishi"> 
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="logo logo"  />
   </a>
-  <a href="https://tm.me/Iam_hosseindarvishi"> 
+  <a href="https://t.me/Iam_hosseindarvishi"> 
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo"  />
   </a>
 <a href="https://twitter.com/iamhossein4">
